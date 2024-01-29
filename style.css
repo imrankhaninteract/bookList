@@ -1,16 +1,14 @@
-
 body {
-   background: linear-gradient(#601d00d6, #000000e0), url("https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
-   background-size: cover;
-   height: 100vh;
-}
-#book-form{
-    color: white;
-}
-
-
-.btn{
-    margin-top: 10px;
-}
-
-
+    background: linear-gradient(#0040806d, #001a33ac), url("https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    height: 100vh;
+    
+ }
+ 
+ #book-form {
+     color: #f2f2f2; /* Modified text color */
+ }
+ 
+ .btn {
+     margin-top: 10px;
+ }
